@@ -5,6 +5,11 @@ package br.com.db1;
  * DE
  * ENVIO
  */
+/*
+ * TESTE
+ * DE
+ * RECEPTOR
+ */
 
 public class Inteiro {
 
