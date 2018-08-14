@@ -1,5 +1,11 @@
 package br.com.db1;
 
+/*
+ * TESTE
+ * DE
+ * ENVIO
+ */
+
 public class Inteiro {
 
 	public Integer Soma(Integer valor1, Integer valor2) {
